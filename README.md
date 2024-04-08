@@ -3,8 +3,8 @@ Little tool for a quick EDA based on polars
 
 ### I'd like to create a package that will perform EDA on polars dataframe
 the goal is to:
-    - get acquinted with polars 
-    - create a handy tool for quick eda
+- get acquinted with polars 
+- create a handy tool for quick eda
 
 ## EDA
 - shape of the dataframe
